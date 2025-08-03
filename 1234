@@ -158,3 +158,4 @@ local itemsFinished = AutoPickItem()
 if itemsFinished then
     AutoFarmBank()
 end
+
